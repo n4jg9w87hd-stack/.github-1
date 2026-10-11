@@ -105,4 +105,4 @@ configuration:
          - OhMyGuus-Bot
          - podman-desktop-bot
          - liurunliang-bot
-      autoSignMsftEmployee: true
+      autoSignMsftEmployee: false
