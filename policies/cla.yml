@@ -9,7 +9,7 @@ configuration:
       minimalChangeRequired: 
          files: 1
          codeLines: 1
-      bypassUsers:
+      bypassUsersUnavailable :
          - dependabot[bot]
          - greenkeeper[bot]
          - dotnet-maestro[bot]
